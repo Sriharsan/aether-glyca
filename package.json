@@ -1,0 +1,15 @@
+{
+  "name": "aether-glyca",
+  "version": "1.0.0",
+  "description": "> AI-driven clinical platform for diabetes management — built for scale, grounded in Tamil Nadu dietary reality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}

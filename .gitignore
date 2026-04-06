@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build output
+dist/
+build/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+.claude/
